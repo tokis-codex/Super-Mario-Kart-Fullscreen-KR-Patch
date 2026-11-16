@@ -12,7 +12,7 @@ File/ROM CRC32: CD80DB86
 
 기본적으로 위의 순정롬파일에 Psicopompo님의 전체화면 패치를 적용한 후, 추가로 이 곳에서 배포되는 한글패치를 적용하는 방식입니다.
 
-<img src="https://github.com/tokis-codex/Super-Mario-Kart-Fullscreen-KR-Patch/blob/main/preview.png">
+<img src="https://github.com/tokis-codex/Super-Mario-Kart-Fullscreen-KR-Patch/blob/main/preview0.png">
 
 이 패치 관련하여 버그 제보는 아래의 게시물에 해주시기 바랍니다.
 https://tokis.tistory.com/674
